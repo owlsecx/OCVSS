@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OCVSS
+Comment=CVSS 3.1/4.0 Calculator
+Exec=OCVSS
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
